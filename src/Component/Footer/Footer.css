@@ -1,0 +1,40 @@
+footer{
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.footer-copyright{
+     font-family: 'Ysabeau Infant', sans-serif;
+     text-align: left;
+}
+
+
+.footer-social-media {
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: center; */
+    align-items: center;
+    /* text-align: center;
+    float: right; */
+}
+
+.footer-social-media a {
+  list-style: none;
+  margin: 10px;
+}
+
+.footer-social-media  a {
+    text-decoration: none;
+    color: #fff;
+}
+.footer-social-media  a:hover {
+    text-decoration: none;
+    color: cyan;
+}
+

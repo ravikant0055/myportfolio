@@ -42,6 +42,7 @@
 
 
 .hire-button {
+    white-space: nowrap;
     background-color: #ffffff;
     border: none;
     font-size: 1.1rem;
@@ -88,7 +89,7 @@
 
 .social-content i {
     padding: 5px;
-    padding-left: 0px;
+/*     padding-left: 0px; */
     font-size: 1.9rem;
     margin-left: 10px;
     color: white;
